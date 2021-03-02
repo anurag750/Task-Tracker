@@ -1,9 +1,7 @@
 import Header from './components/Header'
 
 function App() {
-  
-  const name = "Anurag"
-  const x = false
+
 
   return (
     <div className="container">
